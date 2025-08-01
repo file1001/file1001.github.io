@@ -1,6 +1,6 @@
 {
-  "name": "蛋皇曆",
-  "short_name": "蛋皇曆",
+  "name": "密字曆",
+  "short_name": "密字曆",
   "icons": [
     {
       "src": "images/icons/icon-192.png",
@@ -13,13 +13,13 @@
       "type": "image/png"
     }
   ],
-  "id": "/egg_1/main.html",
+  "id": "/mmm_1/main.html",
   "start_url": "main.html",
   "display": "fullscreen",
   "background_color": "#FFA629",
   "theme_color": "#FFA629",
   "orientation": "portrait",
-  "description": "一個蛋料理主題的電子日曆",
+  "description": "一個關於造字藝術的電子日曆",
   "screenshots": [
     {
       "src": "images/icons/screenshot1.png",
